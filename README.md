@@ -5,6 +5,10 @@ Everything we need to know for ML summer 2026. Made for students to learn basics
 
 ### Machine Learning
 
+**PyTorch** **Website:**
+ * https://docs.pytorch.org/tutorials/beginner/basics/intro.html
+ * This is the best source of information and going down the rabbit hole
+
 **Books:** 
   * Programming PyTorch for Deep Learning: https://dn721609.ca.archive.org/0/items/book1_202402/programming-pytorch-for-deep-learning-creating-and-deploying-deep-learning-applications.pdf
 
