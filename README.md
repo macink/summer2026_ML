@@ -11,7 +11,7 @@ Everything is based in CoLab notebooks. To make a copy of one of the notebooks p
 **PyTorch** **Website:**
  * This is the best source of information and going down the rabbit hole
  * https://docs.pytorch.org/tutorials/
- * `torch.nn` -> list of available layers, activations, loss functions, utilities, etc: https://poloclub.github.io/cnn-explainer/
+ * `torch.nn` -> list of available layers, activations, loss functions, utilities, etc: https://docs.pytorch.org/docs/stable/nn.html
  * `torch.optim` -> optimization functions available: https://docs.pytorch.org/docs/stable/optim.html
 
 **Visualize:**
