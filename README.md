@@ -2,33 +2,10 @@
 Everything we need to know for ML summer 2026. Made for students to learn basics of ML and using it to solve problems in physics.
 
 ## Colab:
-Everything is based in CoLab notebooks. To make a copy of one of the notebooks provided, go to **File** **->** **Save** **a** **copy** **in** **Drive** and then you will be able to edit and mess around with it. Everything in the *PyTorch_course_notebooks* folder is from the crash course (https://www.learnpytorch.io/), with more information below.
+Everything is based in CoLab notebooks. To make a copy of one of the notebooks provided, go to **File** **->** **Save** **a** **copy** **in** **Drive** and then you will be able to edit and mess around with it. Everything in the *PyTorch_course_notebooks* folder is from the crash course (https://www.learnpytorch.io/).
+  * MIT: https://www.learnpytorch.io/ with corresponding respository: https://github.com/mrdbourke/pytorch-deep-learning?tab=readme-ov-file
 
 ## Resources:
-
-### Machine Learning
-
-**PyTorch** **Website:**
- * This is the best source of information and going down the rabbit hole
- * https://docs.pytorch.org/tutorials/
- * `torch.nn` -> list of available layers, activations, loss functions, utilities, etc: https://docs.pytorch.org/docs/stable/nn.html
- * `torch.optim` -> optimization functions available: https://docs.pytorch.org/docs/stable/optim.html
-
-**Visualize:**
- * Neural Networks: https://playground.tensorflow.org/#activation=tanh&batchSize=10&dataset=circle&regDataset=reg-plane&learningRate=0.03&regularizationRate=0&noise=0&networkShape=4,2&seed=0.84554&showTestData=false&discretize=false&percTrainData=50&x=true&y=true&xTimesY=false&xSquared=false&ySquared=false&cosX=false&sinX=false&cosY=false&sinY=false&collectStats=false&problem=classification&initZero=false&hideText=false
- * CNNs: https://poloclub.github.io/cnn-explainer/
-
-**Books:** 
-  * Programming PyTorch for Deep Learning: https://dn721609.ca.archive.org/0/items/book1_202402/programming-pytorch-for-deep-learning-creating-and-deploying-deep-learning-applications.pdf
-
-  * Repository with many books: https://github.com/Rishabh-creator601/Books/blob/master/ML-DL-BROAD/AI%20and%20ml%20for%20coders%20b1%5BH%5D.pdf
-        
-**Crash** **Courses:** 
-  * MIT: https://www.learnpytorch.io/ with corresponding respository: https://github.com/mrdbourke/pytorch-deep-learning?tab=readme-ov-file
-  * DeepLearning.AI: https://learn.deeplearning.ai/specializations/pytorch-for-deep-learning-professional-certificate/information
-
-**Additional** **Resources:**
-  * Website: https://theaisummer.com/learn-ai/fundamentals/
 
 ### Physics
 
