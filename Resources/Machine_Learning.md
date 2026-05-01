@@ -1,4 +1,4 @@
-### Machine Learning
+# Machine Learning
 
 **PyTorch** **Website:**
  * This is the best source of information and going down the rabbit hole
